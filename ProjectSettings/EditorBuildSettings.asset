@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Launcher.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Samples 1/WebXR Interactions/0.16.3-preview/Sample Scene/Scenes/Desert.unity
+    guid: 85380d4847db7b74a850284461349c36
+  - enabled: 1
+    path: Assets/Scenes/LauncherNoVR.unity
+    guid: 181f9eb3714887240bfdbb80f613c8cc
+  - enabled: 1
+    path: Assets/Scenes/Room for 1.unity
+    guid: 60a51bdd3e4b4fb46bc8c1353a5ab45d
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: d9031ee185d334d4e8c126d593fb96e8, type: 2}
+    WebXR.Settings: {fileID: 11400000, guid: d6e85d9219e7e2b46a6bbdf7facf987f, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1247ce3d1bc02a644a5d83e307b8834a, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: dc5deacddff430b4bb8a887a7766c2e7, type: 2}
